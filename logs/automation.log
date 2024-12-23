@@ -1,0 +1,184 @@
+2024-12-23 11:12:56 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 11:12:57 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 11:12:58 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 11:12:58 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 11:13:01 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 11:13:01 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 11:13:01 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 11:13:01 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 11:13:04 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 11:13:04 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 11:13:05 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 11:13:05 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 11:13:07 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 11:14:00 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 11:14:01 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 11:14:02 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 11:14:02 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 11:14:04 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 11:14:04 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 11:14:04 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 11:14:04 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 11:14:13 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 11:14:13 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 11:14:14 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 11:14:14 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 11:14:15 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 11:14:57 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 11:14:57 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 11:14:58 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 11:14:58 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 11:15:01 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 11:15:01 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 11:15:01 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 11:15:01 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 11:15:05 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 11:15:06 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 11:15:07 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 11:15:07 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 11:15:09 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 11:15:14 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 11:15:14 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 11:15:15 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 11:15:15 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 11:15:17 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 11:15:17 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 11:15:17 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 11:15:17 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 11:15:21 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 11:15:21 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 11:15:22 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 11:15:22 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 11:15:23 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 11:30:27 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 11:30:27 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 11:30:28 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 11:30:28 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 11:30:31 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 11:30:31 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 11:30:31 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 11:30:31 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 11:30:35 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 11:30:35 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 11:30:36 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 11:30:36 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 11:30:37 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 11:30:42 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 11:30:43 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 11:30:44 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 11:30:44 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 11:30:46 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 11:30:46 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 11:30:46 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 11:30:46 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 11:30:50 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 11:30:50 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 11:30:51 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 11:30:51 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 11:30:53 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 11:32:05 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 11:32:06 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 11:32:07 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 11:32:07 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 11:32:09 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 11:32:09 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 11:32:09 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 11:32:09 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 11:32:20 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 11:32:20 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 11:32:22 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 11:32:22 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 11:32:25 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 11:32:36 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 11:32:37 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 11:32:38 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 11:32:38 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 11:32:40 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 11:32:40 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 11:32:40 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 11:32:40 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 11:32:48 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 11:32:48 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 11:32:49 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 11:32:49 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 11:32:50 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 18:32:04 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 18:32:04 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 18:32:06 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 18:32:06 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 18:32:08 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 18:32:08 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 18:32:08 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 18:32:08 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 18:32:11 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 18:32:11 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 18:32:12 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 18:32:12 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 18:32:13 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 18:41:23 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 18:41:23 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 18:41:23 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 18:41:23 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 18:41:25 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 18:41:25 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 18:41:25 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 18:41:25 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 18:41:28 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 18:42:12 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 18:42:12 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 18:42:12 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 18:42:12 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 18:42:14 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 18:42:14 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 18:42:14 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 18:42:14 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 18:42:17 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 18:42:17 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 18:42:18 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 18:42:18 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 18:42:19 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 18:43:53 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 18:43:53 ERROR TC01_AccountRegisterationTest:49 - Test failedelement not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [56be0aa9da1f7f6e2719bac1debee1fb, clickElement {id=f.CBA05534B8E1BF34B3998A9EED76408E.d.00DAFAF3D4082EED9FF57E7F6927BDC8.e.16}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\vnp78\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58566}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58566/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (56be0aa9da1f7f6e2719bac1debee1fb)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 56be0aa9da1f7f6e2719bac1debee1fb
+2024-12-23 18:43:53 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 18:43:56 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 18:43:57 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 18:43:57 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 18:43:57 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 18:43:58 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 18:44:16 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 18:44:17 ERROR TC01_AccountRegisterationTest:49 - Test failedelement not interactable
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a01f3f0e99ab5dc757b864de97c571dc, clickElement {id=f.32E064C0294A8B2853C0F756C06F4355.d.54D392EC470F52C8551A6F004A937F0A.e.4}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\vnp78\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58600}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58600/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (a01f3f0e99ab5dc757b864de97c571dc)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: a01f3f0e99ab5dc757b864de97c571dc
+2024-12-23 18:44:17 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 18:44:20 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 18:44:20 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 18:44:20 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 18:44:21 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 18:44:22 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
+2024-12-23 18:44:41 INFO  TC01_AccountRegisterationTest:19 - ****starting the TC01_AccountRegisterationTest**** 
+2024-12-23 18:44:41 INFO  TC01_AccountRegisterationTest:22 - Clicked on MyAccount link
+2024-12-23 18:44:42 INFO  TC01_AccountRegisterationTest:24 - Clicked on Registration link
+2024-12-23 18:44:42 INFO  TC01_AccountRegisterationTest:26 - Entering all the details
+2024-12-23 18:44:43 INFO  TC01_AccountRegisterationTest:40 - Clicked on continue button
+2024-12-23 18:44:43 INFO  TC01_AccountRegisterationTest:42 - validating the expected message
+2024-12-23 18:44:43 INFO  TC01_AccountRegisterationTest:45 - Test passed..
+2024-12-23 18:44:43 INFO  TC01_AccountRegisterationTest:54 - ***Finished TC01_AccountRegisterationTest****
+2024-12-23 18:44:46 INFO  TC02_LoginPageTest:17 - *** TC02_LoginPageTest started***
+2024-12-23 18:44:47 INFO  TC02_LoginPageTest:20 - Clicking on Login Link
+2024-12-23 18:44:47 INFO  TC02_LoginPageTest:23 - Entering the login credentials
+2024-12-23 18:44:47 INFO  TC02_LoginPageTest:27 - clicking on login button
+2024-12-23 18:44:48 INFO  TC02_LoginPageTest:40 - TC02_LoginPageTest completed..
